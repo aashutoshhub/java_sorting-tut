@@ -49,6 +49,8 @@ public class QuickSort2 {
    steps to approach
   
    1.set pivot element (any (recomended mid))
-   2.
+   2.compare left side and swap || same with right side 
+   3.sort the left sub-array and right sub-array
+   4.done
 
  */
